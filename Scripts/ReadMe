@@ -1,0 +1,8 @@
+Cartella Codice:
+
+1) preprocessing-baseline-sentiment.ipynb: Python script in cui vengono implementate la fase di preprocessing, una Rete Neurale baseline di confronto per una successiva più articolata e la Sentiment Analysis (Opinion Mining);
+2) Multi-input.ipynb: Python script in cui viene implementata una Rete Neurale multi-input;
+3) Model_Selection.ipynb: Python script in cui si possono trovare le implementazioni di una serie di modelli di classificazione;
+4) new_df.csv: Dataset manipolato contenente solamente le colonne con la recensione (review), la polarità e la Sentiment Analysis.
+
+N.B.: Le librerie utilizzate nei differenti script sono state ben evidenziate nelle fasi iniziali di ognuno di essi; eseguendo lo script mediante Google Colab non vi dovrebbero essere problemi nell'esecuzione.
