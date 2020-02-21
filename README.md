@@ -74,7 +74,7 @@ Here we show only the cover:
 &#8860; &nbsp; **Mirko Giugliano**
 
 - *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
-- *Background*: Bachelor degree in Marketing, Business Communicatoin and Global Markets at Università degli Studi di Milano-Bicocca (UniMiB).
+- *Background*: Bachelor degree in Marketing, Business Communication and Global Markets at Università degli Studi di Milano-Bicocca (UniMiB).
 <br>
 
 <p align = "center">
